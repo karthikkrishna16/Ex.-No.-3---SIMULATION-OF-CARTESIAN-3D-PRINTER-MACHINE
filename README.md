@@ -62,8 +62,9 @@
 ![image](https://github.com/mukeshkumar1110/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/152305679/cba98d3e-454d-4adc-8083-d0f43ff69765)
 
 
-### Name: MUKESH KUMAR S
-### Register Number:212223240099
+### Name: TH KARTHIK KRISHNA
+### Register Number:212223240067
+
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
